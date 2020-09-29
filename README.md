@@ -1,9 +1,7 @@
 # ShadyMaps
 Python Scripts for Blender based Rendering of Shadow Maps
 
-People in SiliconValley:
-![](name-of-giphy.gif)
+|People in SiliconValley: |People in Austria:
+|---|---|
 
-
-People in Austria:
-![](name-of-giphy.gif)
+|![](Render_flat.gif)|![](name-of-giphy.gif)|
