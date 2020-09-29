@@ -1,5 +1,6 @@
 # ShadyMaps
-Python Scripts for Blender based Rendering of Shadow Maps
+Python Scripts for Blender based Rendering of Shadow Maps.
+Confluence: https://shadymaps.atlassian.net/wiki/home
 
 |People in Silicon Valley: |People in Austria:|Additional People in Austria:
 :-------------------------:|:-------------------------:|:-------------------------:
